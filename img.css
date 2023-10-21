@@ -1,0 +1,11 @@
+body
+{
+    background-image: url(2.jpg);
+    background-size: cover;
+    opacity: 0.75;
+}
+.c
+{
+    justify-content: center;
+    text-align: center;
+}
